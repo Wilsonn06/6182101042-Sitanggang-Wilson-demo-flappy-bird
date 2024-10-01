@@ -1,3 +1,14 @@
 {
-  "__version__": "1.0.6"
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 288,
+      "height": 512,
+      "fitHeight": true
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "fixedTimeStep": 0.001667
+  }
 }
